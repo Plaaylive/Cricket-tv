@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.youtube.com/@PTVSPORTSOFFICIALpk" group-title="", PTV Sports Live HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492421.ts
+#EXTINF:-1 tvg-logo="https://www.dstv.com/media/ezehcl3s/ss_cricket.png?width=330" group-title="", SS Cricket HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492413.ts
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Star_Sports_1_HD.png" group-title="", Star Sports 1 FHD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492415.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Sports_2" group-title="", Star Sports 2 FHD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492416.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Sports_Select_1" group-title="", Star Sports Select 1 FHD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492417.ts
+#EXTINF:-1 tvg-logo="https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/willow-by-cricbuzz-launches-as-new-live-streaming-home-for-cricket-in-the-united-states-and-canada/articleshow/108693655.cms" group-title="", Willow Cricket HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492412.ts
+#EXTINF:-1 tvg-logo="https://www.fubo.tv/welcome/channel/willow-xtra" group-title="", Willow Cricket Xtra HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492411.ts
+#EXTINF:-1 tvg-logo="https://play.google.com/store/apps/details?id=com.aryservicesltd.arysports" group-title="", A Sports HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492419.ts
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Astro_Cricket.png" group-title="", Astro Cricket HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492414.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/ATN_Cricket_Plus" group-title="", ATN Cricket Plus HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492422.ts
+#EXTINF:-1 tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/ex-22xfoxtrademarklicensea.htm" group-title="", Fox Sports 501 HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492432.ts
+#EXTINF:-1 tvg-logo="https://www.geosuper.tv/live" group-title="", Geo Super
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/492420.ts
